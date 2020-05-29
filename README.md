@@ -1,5 +1,5 @@
 # PythonSpammer
-###Do not put pause to 0
+##Do not put pause to 0
 ###how_long is how long the script will run for
 # Install pynput
 ```python
